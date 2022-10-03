@@ -1,4 +1,4 @@
-# ICSP | Information et Complexite SimulationsPlus Data Challenge
+# ICSP | Information and Complexity SimulationsPlus Data Challenge
 
 This repository contains our attempts at the 2022 ENS | SimulationsPlus Data Challenge.
 
